@@ -9,3 +9,12 @@ __pycache__/
 .venv/
 .env
 .DS_Store
+
+# Large generated files
+*.faiss
+*.pt
+*.safetensors
+*.bin
+adapters/
+checkpoints/
+emissions.csv
