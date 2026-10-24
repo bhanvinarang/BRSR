@@ -1,0 +1,11 @@
+# PDFs live on Google Drive, not in Git
+raw_pdfs/
+data/raw_pdfs/
+*.pdf
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
