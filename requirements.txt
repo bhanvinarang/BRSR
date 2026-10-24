@@ -1,0 +1,10 @@
+# Core (needed now)
+pymupdf>=1.24
+pandas>=2.0
+
+# Retrieval and evaluation (needed on Day 1-3)
+numpy
+sentence-transformers
+faiss-cpu
+scikit-learn
+statsmodels
