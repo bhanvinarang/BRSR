@@ -1,0 +1,23 @@
+{
+  "args": {
+    "systems": [
+      "S1"
+    ],
+    "repeats": 3,
+    "warmup": 3,
+    "per_fold": null,
+    "k": 1,
+    "variant": "guided",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "adapter_root": "/content/drive/MyDrive/brsr_stage4/adapters",
+    "max_new_tokens": 64,
+    "out": null,
+    "summarize_only": false,
+    "dry_run": false
+  },
+  "python": "3.13.16",
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "dtype": "float16",
+  "greedy": true
+}

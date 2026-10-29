@@ -1,0 +1,43 @@
+{
+  "unique_pages": false,
+  "strategy": "hybrid",
+  "candidate_k": null,
+  "scored_rows": 317,
+  "missing_gold_page_rows": 3,
+  "recall": {
+    "answerable": {
+      "recall_at_1": 0.6386138613861386,
+      "recall_at_3": 0.9108910891089109,
+      "recall_at_5": 0.9752475247524752,
+      "n": 202
+    },
+    "not_disclosed": {
+      "recall_at_1": 0.6869565217391305,
+      "recall_at_3": 0.9391304347826087,
+      "recall_at_5": 0.9826086956521739,
+      "n": 115
+    }
+  },
+  "main_accuracy_eligible": {
+    "answerable": {
+      "recall_at_1": 0.6386138613861386,
+      "recall_at_3": 0.9108910891089109,
+      "recall_at_5": 0.9752475247524752,
+      "n": 202
+    },
+    "not_disclosed": {
+      "recall_at_1": 0.6351351351351351,
+      "recall_at_3": 0.9324324324324325,
+      "recall_at_5": 0.9864864864864865,
+      "n": 74
+    }
+  },
+  "lexical_weight": 1.5,
+  "lexical_template": true,
+  "value_recall": {
+    "value_recall_at_1": 0.5974025974025974,
+    "value_recall_at_3": 0.8376623376623377,
+    "value_recall_at_5": 0.9090909090909091
+  },
+  "value_recall_n": 154
+}

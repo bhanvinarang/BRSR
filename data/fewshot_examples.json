@@ -1,0 +1,138 @@
+{
+  "0": [
+    {
+      "company_id": "drreddys",
+      "row_id": "drreddys_F10",
+      "field_id": "F10",
+      "question": "What is the total number of employees of Dr. Reddy's Laboratories?",
+      "context": "20.\nDetails as at the end of Financial Year: \na. \nEmployees and workers (including differently abled): \nS. \nNo.\nParticulars\nTotal\nMale\nFemale\nOthers\nNo.\n%\nNo.\n%\nNo.\n%\nEmployees\n1\nPermanent\n27,527\n21,789\n79.1\n5,735\n20.8\n3\n0.1\n2\nOther than permanent\n9,199\n6,172\n67.1\n3,024\n32.8\n3\n0.1\nTotal\n36,726\n27,961\n76.1\n8,759\n23.8\n6\n0.1\nWorkers\n1\nPermanent\n564\n542\n96.09\n22\n3.90\n0\n0\n2\nOther than permanent",
+      "target": {
+        "answer": "36,726",
+        "unit": null
+      }
+    },
+    {
+      "company_id": "hindustanunilever",
+      "row_id": "hindustanunilever_F03",
+      "field_id": "F03",
+      "question": "What are the total Scope 1 emissions of Hindustan Unilever?",
+      "context": "To reduce our carbon footprint, we are investing in new technologies, switching to renewable sources, and innovating to \ntransform our factory operations. Refer to our https://www.hul.co.in/sustainability/climate/\nParameter\nUnit\nFY 2024-25\nFY 2023-24\nTotal Scope 1 emissions\ntCO2e\n8,944\n14,622\nTotal Scope 2 emissions\ntCO2e\nGross: 2,23,923\nNet: 0**\nGross: 2,20,234\nNet: 96**",
+      "target": {
+        "answer": "8,944",
+        "unit": "tCO2e"
+      }
+    },
+    {
+      "company_id": "ambuja",
+      "row_id": "ambuja_F16",
+      "field_id": "F16",
+      "question": "What Scope 1 and Scope 2 emission intensity does Ambuja Cements report in the optional row “Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric may be selected by the entity”?",
+      "context": "operations adjusted for PPP)\nkg CO2/USD \nPPP adjusted\n1.9\n1.6\nTotal Scope 1 and Scope 2 emission \nintensity in terms of physical output\nkg CO2/tonne \nof cementitious \nmaterial\n613\n555\nTotal Scope 1 and Scope 2 emission \nintensity (optional) – the relevant metric \nmay be selected by the entity\nNA\nNA",
+      "target": {
+        "answer": "not disclosed"
+      }
+    }
+  ],
+  "1": [
+    {
+      "company_id": "cipla",
+      "row_id": "cipla_F04",
+      "field_id": "F04",
+      "question": "What are the total Scope 2 emissions of Cipla?",
+      "context": "equivalent \n Energy based – \n 38,283\nRefrigerant \nEmissions – 7,39,935\n Energy based– \n37,398\nRefrigerant \nemissions:–6,97,682\nTotal Scope 2 emissions (market based approach) \n(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, \nNF3, if available) \nMetric tonnes of CO₂ \nequivalent \n 1,29,087\n 2,07,238\nTotal Scope 1 and Scope 2 emission intensity per rupee",
+      "target": {
+        "answer": "1,29,087",
+        "unit": "tCO2e"
+      }
+    },
+    {
+      "company_id": "hindalco",
+      "row_id": "hindalco_F16",
+      "field_id": "F16",
+      "question": "What Scope 1 and Scope 2 emission intensity does Hindalco Industries report in the optional row “Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric may be selected by the entity”?",
+      "context": "457.21\n566.94\nTotal Scope 1 and Scope 2 emission intensity in \nterms of physical output**\nAluminium (tCO₂e/MT) –19.20 \nCopper (tCO₂e/MT)- 2.18\nAluminium (tCO₂e/MT) - 19.40 \nCopper (tCO₂e/MT)- 2.16\nTotal Scope 1 and Scope 2 emission intensity \n(optional) – the relevant metric may be selected by the \nentity\n-\n-",
+      "target": {
+        "answer": "not disclosed"
+      }
+    },
+    {
+      "company_id": "itc",
+      "row_id": "itc_F10",
+      "field_id": "F10",
+      "question": "What is the total number of employees of ITC?",
+      "context": "REPORT AND ACCOUNTS 2026\nBusiness Responsibility \nand Sustainability Report\nV\nS. No.\nParticulars\nTotal \n(A)\nMale\nFemale\nNo. (B)\n% (B/A)\nNo. (C)\n% (C/A)\nEMPLOYEES\n1\nPermanent (D)\n11,442\n9,362\n82%\n2,080\n18%\n2\nOther than Permanent (E)\n636\n440\n69%\n196\n31%\n3\nTotal employees (D + E)\n12,078\n9,802\n81%\n2,276\n19%\nWORKERS\n4\nPermanent (F)\n11,051\n10,368\n94%\n683\n6%\n5\nOther than Permanent (G)",
+      "target": {
+        "answer": "12,078",
+        "unit": null
+      }
+    }
+  ],
+  "2": [
+    {
+      "company_id": "drreddys",
+      "row_id": "drreddys_F16",
+      "field_id": "F16",
+      "question": "What Scope 1 and Scope 2 emission intensity does Dr. Reddy's Laboratories report in the optional row “Total Scope 1 and Scope 2 emission intensity (optional) – the relevant metric may be selected by the entity”?",
+      "context": "adjusted for PPP) (Market Based)\nMT/Revenue adjusted \nto PPP 2\n10.58\n15.1\nTotal Scope 1 and Scope 2 emission intensity in terms of \nphysical output (Market Based)\nMT/tonne of product\n11.97\n14.9\nTotal Scope 1 and Scope 2 emission intensity (optional) – the \nrelevant metric may be selected by the entity\n-\n-",
+      "target": {
+        "answer": "not disclosed"
+      }
+    },
+    {
+      "company_id": "nestle",
+      "row_id": "nestle_F10",
+      "field_id": "F10",
+      "question": "What is the total number of employees of Nestle India?",
+      "context": "20. Details as at the end of Financial Year: \na. \nEmployees and workers (including differently abled):\nS. No. Particulars\nTotal \n(A)\nMale\nFemale\nNo. (B)\n%(B/A)\nNo. (C)\n%(C/A)\nEMPLOYEES\n1\nPermanent (D)\n3,607\n2,745\n76%\n862\n24%\n2\nOther than permanent (E)\n312\n255\n82%\n57\n18%\n3\nTotal employees (D+E)\n3,919\n3,000\n77%\n919\n23%\nWORKERS\n4\nPermanent (F)\n4,812\n4,593\n95%\n219\n5%\n5\nOther than permanent (G)\n7,519",
+      "target": {
+        "answer": "3,919",
+        "unit": null
+      }
+    },
+    {
+      "company_id": "powergrid",
+      "row_id": "powergrid_F04",
+      "field_id": "F04",
+      "question": "What are the total Scope 2 emissions of Power Grid Corporation?",
+      "context": "FY 2023-24\nTotal Scope 1 emissions (Break-up of \nthe GHG into CO2, CH4, N2O, HFCs, PFCs, \nSF6, NF3, if available)\nMetric tonnes of \nCO2 equivalent\n49,785\n73,497\nTotal Scope 2 emissions (Break-up of \nthe GHG into CO2, CH4, N2O, HFCs, PFCs, \nSF6, NF3, if available)\nMetric tonnes of \nCO2 equivalent\n2,67,643\n2,70,872\nTotal Scope 1 and Scope 2 emission \nintensity per rupee of turnover",
+      "target": {
+        "answer": "2,67,643",
+        "unit": "tCO2e"
+      }
+    }
+  ],
+  "3": [
+    {
+      "company_id": "bajajauto",
+      "row_id": "bajajauto_F11",
+      "field_id": "F11",
+      "question": "What is the number of women employees of Bajaj Auto?",
+      "context": "a. Employees and workers (including differently abled): \nSr. \nNo.\nParticulars\nTotal (A)\nMale\nFemale\nNumber (B)\n% (B/A)\nNumber (C)\n% (C/A)\nEmployees\n1.\nPermanent (D)\n2,639\n2,498\n95%\n141\n5%\n2.\nOther than Permanent (E)\n281\n206\n73%\n75\n27%\n3.\nTotal employees (D + E)\n2,920\n2,704\n93%\n216\n7%\nWorkers\n4.\nPermanent (F)\n2,959\n2,830\n96%\n129\n4%\n5.\nOther than Permanent (G)\n123\n115\n93%\n8\n7%\n6.",
+      "target": {
+        "answer": "216",
+        "unit": null
+      }
+    },
+    {
+      "company_id": "nestle",
+      "row_id": "nestle_F15",
+      "field_id": "F15",
+      "question": "What waste intensity does Nestle India report in the optional row “Waste intensity (optional) – the relevant metric may be selected by the entity”?",
+      "context": "Waste intensity per rupee of turnover adjusted for Purchasing \nPower Parity (PPP) (Total waste generated / Revenue from \noperations adjusted for PPP) (MT/million USD)\n7**\n3.89\nWaste intensity in terms of physical output (kg/ton)\n119.40\n105.48\nWaste intensity (optional) – the relevant metric may be \nselected by the entity\nNA\nNA",
+      "target": {
+        "answer": "not disclosed"
+      }
+    },
+    {
+      "company_id": "powergrid",
+      "row_id": "powergrid_F01",
+      "field_id": "F01",
+      "question": "What is the total energy consumed by Power Grid Corporation?",
+      "context": "Total electricity consumption (D) GJ\n13,25,328\n13,61,928\nTotal fuel consumption (E) GJ\n1,63,887\n1,51,250\nEnergy consumption through other sources (F)\nNil\nNil\nTotal energy consumed from non-renewable sources \n(D+E+F) GJ\n14,89,215\n15,13,178\nTotal energy consumed (A+B+C+D+E+F) GJ\n16,54,832\n15,49,368",
+      "target": {
+        "answer": "16,54,832",
+        "unit": "GJ"
+      }
+    }
+  ]
+}

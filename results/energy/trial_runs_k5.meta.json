@@ -1,0 +1,25 @@
+{
+  "args": {
+    "systems": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "repeats": 1,
+    "warmup": 3,
+    "per_fold": 20,
+    "k": 5,
+    "variant": "guided",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "adapter_root": "/content/drive/MyDrive/brsr_stage4/adapters",
+    "max_new_tokens": 64,
+    "out": "results/energy/trial_runs_k5.csv",
+    "summarize_only": false,
+    "dry_run": false
+  },
+  "python": "3.13.16",
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "dtype": "float16",
+  "greedy": true
+}

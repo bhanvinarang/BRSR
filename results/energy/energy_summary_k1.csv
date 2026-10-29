@@ -1,0 +1,2 @@
+system,k,repeats,questions_per_repeat,wh_total_mean,wh_total_sd,wh_gpu_codecarbon_mean,wh_gpu_codecarbon_sd,wh_gpu_nvml_mean,wh_gpu_nvml_sd,latency_ms_mean,latency_ms_sd,prompt_tokens_mean,prompt_tokens_sd,new_tokens_mean,new_tokens_sd
+S1,1,3,320,0.01943259809202875,4.986198772822748e-05,0.016508896598309685,4.00750123680697e-05,0.016508883101851855,4.0048261499092244e-05,885.0166666666668,2.5588318511986925,650.734375,0.0,18.70625,0.0

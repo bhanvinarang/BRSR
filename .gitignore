@@ -18,3 +18,24 @@ __pycache__/
 adapters/
 checkpoints/
 emissions.csv
+
+# Derived from the PDFs, not redistributed
+data/chunks/
+data/index/
+results/retrieval_recall_rows.csv
+
+# Local environment and scratch
+venv/
+0]
+stage4_bundle.zip
+results/energy-*/
+results/energy-*.zip
+*.zip
+
+# Report text derived from the PDFs (rebuild with the scripts), logs, scratch
+data/corpus/
+data/ft/
+data/retrieval_top5.jsonl
+results/query_vectors_*.npy
+results/*.log
+docs/brsr_paper*

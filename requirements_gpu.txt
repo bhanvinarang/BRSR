@@ -1,0 +1,8 @@
+# GPU machine (Colab T4) for Stage 4-5.  Retrieval is frozen, so no FAISS / embedding model needed here.
+transformers
+peft
+bitsandbytes
+accelerate
+codecarbon
+pandas
+numpy

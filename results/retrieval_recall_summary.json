@@ -1,0 +1,32 @@
+{
+  "scored_rows": 317,
+  "missing_gold_page_rows": 3,
+  "recall": {
+    "answerable": {
+      "recall_at_1": 0.43564356435643564,
+      "recall_at_3": 0.7079207920792079,
+      "recall_at_5": 0.7920792079207921,
+      "n": 202
+    },
+    "not_disclosed": {
+      "recall_at_1": 0.40869565217391307,
+      "recall_at_3": 0.6956521739130435,
+      "recall_at_5": 0.8260869565217391,
+      "n": 115
+    }
+  },
+  "main_accuracy_eligible": {
+    "answerable": {
+      "recall_at_1": 0.43564356435643564,
+      "recall_at_3": 0.7079207920792079,
+      "recall_at_5": 0.7920792079207921,
+      "n": 202
+    },
+    "not_disclosed": {
+      "recall_at_1": 0.44594594594594594,
+      "recall_at_3": 0.7027027027027027,
+      "recall_at_5": 0.8243243243243243,
+      "n": 74
+    }
+  }
+}
